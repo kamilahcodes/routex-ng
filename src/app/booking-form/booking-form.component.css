@@ -1,0 +1,52 @@
+
+
+h3{
+	font-weight: 700;
+
+
+
+}
+
+
+.form-section{
+	/*background-color: #f2f2f2; */
+	background-color: #f1f1f1;
+	padding: 30px; 
+	margin-top:10px;
+	margin-bottom:10px
+
+}
+
+.parcel-icon{
+	width:150px;
+	padding:15px;
+
+
+}
+
+.mat-stepper-horizontal {
+  margin-top: 8px;
+}
+
+.mat-form-field {
+  margin-top: 16px;
+}
+
+
+.small-marg{
+
+	margin-bottom: 15px; 
+}
+
+.mat-step-header.mat-step-icon-selected{
+	background-color: green;
+
+}
+/*.form-row{
+
+
+	margin-bottom: 15px; 
+	position: relative; 
+	border-bottom:3px solid #e5e5e5
+}
+*/
